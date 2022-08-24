@@ -7,8 +7,8 @@ The **GAS-Net** is designed to generate global-aware features for efficient chan
 
 ## Requirements
 
-- Python 3.6
-- Pytorch 1.2.0
+- Python 3.7
+- Pytorch 1.10.0
 
 
 ## Datasets
