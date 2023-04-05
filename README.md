@@ -43,7 +43,15 @@ The data folder is structured as follows:
 
 ## Citation
 
-The paper was submitted to ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING.
+@article{Global2023zhang,
+title = {Global-aware siamese network for change detection on remote sensing images},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {199},
+pages = {61-72},
+year = {2023},
+doi = {https://doi.org/10.1016/j.isprsjprs.2023.04.001},
+author = {Ruiqian Zhang and Hanchao Zhang and Xiaogang Ning and Xiao Huang and Jiaming Wang and Wei Cui},
+}
 
 
 ## Acknowledgment
