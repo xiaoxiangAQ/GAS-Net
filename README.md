@@ -5,6 +5,13 @@ The pytorch implementation for "[Global-Aware Siamese Network for Change Detecti
 The **GAS-Net** is designed to generate global-aware features for efficient change detection by incorporating the relationships between scenes and foregrounds.
 
 
+## Results
+
+![image](https://github.com/xiaoxiangAQ/GAS-Net/main/doc/result1.jpg)
+
+![image](https://github.com/xiaoxiangAQ/GAS-Net/main/doc/result2.jpg)
+
+
 ## Requirements
 
 - Python 3.6
