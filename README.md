@@ -7,7 +7,7 @@ The **GAS-Net** is designed to generate global-aware features for efficient chan
 
 ## Results
 
-![image](https://github.com/xiaoxiangAQ/GAS-Net/tree/main/doc/result1.jpg)
+![image](https://raw.githubusercontent.com/xiaoxiangAQ/GAS-Net/main/doc/result1.jpg)
 
 ![image](https://github.com/xiaoxiangAQ/GAS-Net/tree/main/doc/result2.jpg)
 
