@@ -7,9 +7,9 @@ The **GAS-Net** is designed to generate global-aware features for efficient chan
 
 ## Results
 
-![image](https://github.com/xiaoxiangAQ/GAS-Net/main/doc/result1.jpg)
+![image](https://github.com/xiaoxiangAQ/GAS-Net/tree/main/doc/result1.jpg)
 
-![image](https://github.com/xiaoxiangAQ/GAS-Net/main/doc/result2.jpg)
+![image](https://github.com/xiaoxiangAQ/GAS-Net/tree/main/doc/result2.jpg)
 
 
 ## Requirements
@@ -50,14 +50,14 @@ The data folder is structured as follows:
 
 ## Citation
 
-@article{Global2023zhang,
-title = {Global-aware siamese network for change detection on remote sensing images},
-journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-volume = {199},
-pages = {61-72},
-year = {2023},
-doi = {https://doi.org/10.1016/j.isprsjprs.2023.04.001},
-author = {Ruiqian Zhang and Hanchao Zhang and Xiaogang Ning and Xiao Huang and Jiaming Wang and Wei Cui},
+@article{Global2023zhang,<br>
+title = {Global-aware siamese network for change detection on remote sensing images},<br>
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},<br>
+volume = {199},<br>
+pages = {61-72},<br>
+year = {2023},<br>
+doi = {https://doi.org/10.1016/j.isprsjprs.2023.04.001},<br>
+author = {Ruiqian Zhang and Hanchao Zhang and Xiaogang Ning and Xiao Huang and Jiaming Wang and Wei Cui},<br>
 }
 
 
