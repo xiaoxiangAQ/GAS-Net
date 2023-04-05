@@ -1,15 +1,15 @@
 ## GAS-Net
 
-The pytorch implementation for "[Global-Aware Siamese Network for Change Detection on Remote Sensing Images]" on ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING. 
+The pytorch implementation for "Global-Aware Siamese Network for Change Detection on Remote Sensing Images" on ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING. 
 
 The **GAS-Net** is designed to generate global-aware features for efficient change detection by incorporating the relationships between scenes and foregrounds.
 
 
 ## Results
 
-![image](https://raw.githubusercontent.com/xiaoxiangAQ/GAS-Net/main/doc/result1.jpg)
+![image1](https://raw.githubusercontent.com/xiaoxiangAQ/GAS-Net/main/doc/result1.png)
 
-![image](https://raw.githubusercontent.com/xiaoxiangAQ/GAS-Net/main/doc/result2.jpg)
+![image2](https://raw.githubusercontent.com/xiaoxiangAQ/GAS-Net/main/doc/result2.png)
 
 
 ## Requirements
